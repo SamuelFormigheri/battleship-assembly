@@ -38,7 +38,7 @@ LF EQU 10
    TELA_INICIAL1 DB 0C9h,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0BBh,'$' 
    TELA_INICIAL2 DB 0BAh,'    B A T A L H A    N A V A L    ',0BAh,'$' 
    TELA_INICIAL3 DB 0BAh,'      [J]ogar        [S]air       ',0BAh,'$'
-   TELA_INICIAL4 DB 0BAh,'Gabriel Vieira e Samuel Formigheri',0BAh,'$' 
+   TELA_INICIAL4 DB 0BAh,'        Samuel Formigheri         ',0BAh,'$' 
    TELA_INICIAL5 DB 0C8h,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0CDh,0BCh,'$'
    
    COLUNA_TELA_INICIAL EQU 22
